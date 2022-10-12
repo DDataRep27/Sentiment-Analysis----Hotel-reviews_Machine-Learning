@@ -8,8 +8,8 @@
 
 **Successfully build 2 models, and deployed on streamlit-cloud**:
 
-1. Machine Learning Model app (ML)
-2. Deep Learning Model app (DL)
+* Machine Learning Model app (ML)
+* Deep Learning Model app (DL)
 
 
 *Link to ML app:* 
