@@ -12,6 +12,7 @@
 * Deep Learning Model app (DL)
 
 
-*Link to ML app:* 
+*Link to ML app: https://ddatarep27-sentiment-analysis----hotel-reviews-deploy11-h5fw3i.streamlitapp.com/* 
 
-*Link to DL app:*
+Also, check deep learning model app repo
+*Link to DL model Sentiment Analysis repo: *
