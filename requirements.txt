@@ -22,11 +22,7 @@ nltk==3.7
 
 afinn==0.1
 
-json5==0.9.6            
-jsonschema==4.4.0          
-python-fastjsonschema==2.15.1            
-python-lsp-jsonrpc==1.0.0              
-ujson==5.1.0
+json5==0.9.6                             
 
 joblib==1.1.0
 
