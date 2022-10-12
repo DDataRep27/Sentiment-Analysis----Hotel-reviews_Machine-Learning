@@ -17,3 +17,9 @@ streamlit==1.12.2
 streamlit-lottie==0.0.3
 
 cloudpickle==2.0.0
+
+nltk==3.7
+
+afinn==0.1
+
+
