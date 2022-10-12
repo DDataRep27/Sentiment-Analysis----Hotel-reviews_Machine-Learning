@@ -8,6 +8,12 @@ from pickle import load
 import time
 from streamlit_lottie import st_lottie, st_lottie_spinner
 import json
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+
 
 #Background config
 def load_lottiefile(filepath: str):
