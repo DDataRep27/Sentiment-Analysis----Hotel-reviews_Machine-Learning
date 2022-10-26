@@ -14,6 +14,8 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
+#Web Page Configuration
+st.set_page_config(page_title=("DR Sentiment Analysis - ML"))
 
 #Background config
 def load_lottiefile(filepath: str):
@@ -23,7 +25,8 @@ def load_lottiefile(filepath: str):
 lottie_start = load_lottiefile("19146-tapered-hello.json")
 lottie_type  = load_lottiefile("74424-worker-have-an-idea.json")
 lottie_process = load_lottiefile("72689-brain-bulb-with-gears.json")
-    
+
+
     
 #Input variables 
 def user_input_features():
