@@ -68,8 +68,8 @@ else:
 
 #Predicting the final result
     if st.button('Classify Text'):
-        with st_lottie_spinner(lottie_process, height=(225), width=(700), quality="med", speed=1.25):
-            time.sleep(1.6)
+        with st_lottie_spinner(lottie_process, height=(225), width=(700), quality="high", speed=1.2):
+            time.sleep(1.3)
             st.subheader('Predicted Result:')
         if result[0]==0:
             st.error("Negative Statement", icon='😡')    
